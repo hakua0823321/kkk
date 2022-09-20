@@ -1,0 +1,4 @@
+﻿  Huffman.cpp
+C:\Users\mizuk\Desktop\GQ\05_ハフマン符号化\Huffman\Huffman.cpp(61,41): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+C:\Users\mizuk\Desktop\GQ\05_ハフマン符号化\Huffman\Huffman.cpp(61,41): message : プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+  Huffman.vcxproj -> C:\Users\mizuk\Desktop\GQ\05_ハフマン符号化\Huffman\HuffmanD.exe
